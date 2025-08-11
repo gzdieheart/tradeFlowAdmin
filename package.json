@@ -1,9 +1,9 @@
 {
-  "name": "tradeFlowAdmin",
+  "name": "tradeflowadmin",
   "version": "1.0.0",
   "author": "hyj",
   "participants": [],
-  "homepage": "https://vuejs-core.cn",
+  "homepage": "https://github.com/gzdieheart/tradeFlowAdmin",
   "scripts": {
     "serve:rspack": "node --no-deprecation rspack.js serve",
     "build": "rimraf dist && node --no-deprecation rspack.js build",
