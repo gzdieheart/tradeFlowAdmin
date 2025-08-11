@@ -1,7 +1,7 @@
 {
-  "name": "vue-admin-better",
-  "version": "3.0.0",
-  "author": "zxwk1998",
+  "name": "tradeFlowAdmin",
+  "version": "1.0.0",
+  "author": "hyj",
   "participants": [],
   "homepage": "https://vuejs-core.cn",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zxwk1998/vue-admin-better.git"
+    "url": "git+https://github.com/gzdieheart/tradeFlowAdmin.git"
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
