@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktradeflowadmin=self.webpackChunktradeflowadmin||[]).push([["5652"],{24639:function(e,n,t){t.r(n),t.d(n,{default:function(){return s}});var r=t(23046);function s(e){return!!e&&e instanceof Array&&!!(e.length>0)&&r.default.getters["user/permissions"].some(n=>e.includes(n))}}}]);

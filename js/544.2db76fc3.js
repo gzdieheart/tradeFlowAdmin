@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktradeflowadmin=self.webpackChunktradeflowadmin||[]).push([["544"],{87667:function(e,t,n){n.r(t),n.d(t,{getTreeList:function(){return u}});var r=n(42007);function u(e){return(0,r.default)({url:"/tree/list",method:"post",data:e})}}}]);

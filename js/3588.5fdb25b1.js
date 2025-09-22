@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktradeflowadmin=self.webpackChunktradeflowadmin||[]).push([["3588"],{83135:function(t,e,n){n.r(e),n.d(e,{getNoticeList:function(){return r}});var u=n(42007);function r(){return(0,u.default)({url:"https://api.vuejs-core.cn/getNotice",method:"get"})}}}]);

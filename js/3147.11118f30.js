@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktradeflowadmin=self.webpackChunktradeflowadmin||[]).push([["3147"],{93878:function(t,n,e){e.r(n),e.d(n,{getIconList:function(){return r}});var u=e(42007);function r(t){return(0,u.default)({url:"/icon/list",method:"post",data:t})}}}]);
